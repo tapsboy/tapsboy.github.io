@@ -3,18 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.tapanshah.com/about/</loc>
-    <lastmod>2017-09-04T14:37:34-04:00</lastmod>
+    <loc>http://www.tapanshah.com/pages/test/</loc>
+    <lastmod>2017-09-04T14:58:00-04:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.tapanshah.com/about/</loc>
-    <lastmod>2017-09-04T14:37:34-04:00</lastmod>
+    <lastmod>2017-09-04T14:47:48-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.tapanshah.com/about/</loc>
+    <lastmod>2017-09-04T14:47:48-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.tapanshah.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.tapanshah.com/pages/</loc>
+    <lastmod>2017-09-04T14:58:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -25,7 +36,7 @@
   
   <url>
     <loc>http://www.tapanshah.com/</loc>
-    <lastmod>2017-09-04T14:37:34-04:00</lastmod>
+    <lastmod>2017-09-04T14:58:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
