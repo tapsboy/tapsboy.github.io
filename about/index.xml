@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Me on Tapan Shah - Homepage</title>
-    <link>http://www.tapanshah.com/about/</link>
+    <link>https://www.tapanshah.com/about/</link>
     <description>Recent content in About Me on Tapan Shah - Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Tapan Shah</copyright>
     <lastBuildDate>Mon, 04 Sep 2017 15:23:55 -0400</lastBuildDate>
     
-	<atom:link href="http://www.tapanshah.com/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.tapanshah.com/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
